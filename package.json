@@ -1,0 +1,16 @@
+{
+  "name": "solace_test",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node connect.js"
+  },
+	"dependencies": {
+		"dotenv": "^16.5.0",
+		"solclientjs": "^10.18.0"
+	},
+	"devDependencies": {
+		"@types/dotenv": "^8.2.3",
+		"@types/node": "^22.15.29"
+	}
+}
